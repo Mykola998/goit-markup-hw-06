@@ -717,6 +717,8 @@ img {
 }
 .input-field {
   margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }
 .check-text {
   font-weight: 400;
